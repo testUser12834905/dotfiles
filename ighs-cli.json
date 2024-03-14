@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "lego": {
+      "route": "/Users/hu901184/github/lego-web"
+    },
+    "checkout": {
+      "route": "~/github/checkout"
+    }
+  }
+}
